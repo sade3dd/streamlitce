@@ -14,10 +14,10 @@ task_started = False
 # Picb.cc API 密钥和相册ID轮询配置
 
 async def process_uaa(id1: str = '1') -> dict:
-    logger.info(f"开始处理 KKXISJJXUIUIS 任务，参数 id1={id1}")
+    logger.info(f"开始处理 OXJDUDHJJ 任务，参数 id1={id1}")
     
-    result = {"message": "KKXISJJXUIUIS 任务执行成功"}
-    logger.info(f"KKXISJJXUIUIS 任务执行成功 | id1={id1} | result={result}")
+    result = {"message": "OXJDUDHJJ 任务执行成功"}
+    logger.info(f"OXJDUDHJJ 任务执行成功 | id1={id1} | result={result}")
     
     return result
 
