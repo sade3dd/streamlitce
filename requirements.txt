@@ -11,3 +11,4 @@ dnspython==2.8.0
 certifi>=2024.7.4
 filelock
 colorama
+streamlit
